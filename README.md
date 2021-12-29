@@ -1,5 +1,5 @@
 # ProjectKLS
-```javascript
+```appsscript
 
 function onEdit(e){
   oE1(e);
